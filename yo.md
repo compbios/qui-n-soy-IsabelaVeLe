@@ -15,3 +15,8 @@ Me interesa la _historia_:books: la _evolución_, el _cine_ :film_projector:	, y
 
 
 ! [El clima que mejor me definiría](bosque.jpg)
+
+
+_Mascotas_ :black_cat:   :dog2:  :dog:
+
+_Comida favorita_ :ramen:
